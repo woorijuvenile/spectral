@@ -2,14 +2,14 @@
 #
 
 # Site settings
-title: Spectral
+title: 분당우리교회 서현 소년부
 description: |
   Another fine responsive  
   site template freebie  
   crafted by [HTML5 UP](http://html5up.net)
-owner: Your Name # or company name
+owner: 분당우리교회 # or company name
 first_published: 2016 # if migrating another site, the year of your first publish
-email: your-email@domain.com
+email: tifriend0623@gmail.com
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://yourdomain.com" # the base hostname & protocol for your site
 social:
